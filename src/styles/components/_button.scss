@@ -1,0 +1,19 @@
+.btn {
+	display: inline-block;
+	padding: $s-size;
+	border: none;
+	font-size: $fsize-l;
+	font-weight: 300;
+	line-height: 1;
+	text-decoration: none;
+	background-color: $c-primary;
+	color: white;
+}
+
+.btn--secondary {
+	background-color: $c-grey;
+}
+
+.btn--link {
+	background-color: transparent;
+}

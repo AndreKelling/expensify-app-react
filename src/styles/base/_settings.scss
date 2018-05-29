@@ -1,4 +1,8 @@
 // Colors
+$c-dark-grey: #333;
+$c-grey: #888;
+$c-off-white: #f7f7f7;
+$c-primary: #456;
 
 // Spacing
 $s-size: 1.2rem;
@@ -6,3 +10,7 @@ $m-size: 1.6rem;
 $l-size: 3.2rem;
 $xl-size: 4.8rem;
 $desktop-breakpoint: 45rem;
+
+// Font Sizes
+$fsize-s: $s-size + .2rem;
+$fsize-l: $m-size + .2rem;
